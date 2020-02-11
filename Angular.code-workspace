@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "E:\\Angular-1"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "typescript"
+  }
+}
